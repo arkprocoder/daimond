@@ -1,0 +1,13 @@
+1) write a program to take a input from the user and print the details
+   *Employee Name
+   *Employee Age
+   *Employee Phone Number
+   *Employee Salary
+   *EMployee Address
+along with this print the type of all the variables
+
+2)convert the following variables
+a) num="15000" convert to int and print the varaible and its type
+b) mybool="True" convert to Boolean and print the varaible and its type
+c) mysal="178542.254" convert to float and print the varaible and its type
+d)result=88 convert to string and print the varaible and its type
