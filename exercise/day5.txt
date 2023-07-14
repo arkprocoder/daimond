@@ -1,7 +1,7 @@
 1)write a python program to create a dictionary
 add key value pairs using input
 employee name,employee age,employee number
-employe role and print the keys and values
+employe role and employee hobbies should be list and print the keys and values along with whole dictionary
 
 2)create a python program to add the 
 values in the sets
