@@ -1,0 +1,19 @@
+1. Write a program to validate a person can vote or not
+*take the age as input from the user
+if age is less than 18 print he cannot vote
+if age is greater than 18 print he can vote
+if age is greater than 90 print please stay at home
+if age is 18 than  print please make the voter id
+
+2.Take a inputs and Evaluate the expressions
+a)Take the Students name
+b)Take the student english marks
+maths,science,social,kannada,hindi while taking the inputs it should be in tha range (0-100)
+c)calculate the % and print
+
+% <35% print fail and print the Grade 'f'
+% >35% and <55% print just pass and print the Grade 'd'
+% >55% and <60% print  pass and print the Grade 'c'
+% >60% and <75% print  average and print the Grade 'b'
+% >75% and <90% print  good and print the Grade 'a'
+% >90% and <100% print  excellent  and print the Grade 'A+'
