@@ -1,0 +1,59 @@
+Full Stack web development is a technology where we can see frontend,backend and database
+
+What is frontend?
+Frontend is UI of your website where we can see the structure, design and working flow of the site
+It has mainly 3 parts
+1.HTML
+2.CSS
+3.JAVASCRIPT
+
+►HTML is structure of the website which we call it as skeleton of the website full fom of html is hyper text markup langauge.
+►Html is a basic foundtion for any frontend part which makes to develop the structue of site.
+►Html tells how to display the elements in the web pages
+►Html has various tags, elements and tag selectors 
+
+Click here to Learn HTML
+ 
+
+JavaScript is world popular Scripting languages i can say its king of all the other languages which runs in the client side
+it is the soul of the web pages like whenever we click what action it should perform like showing popups and n other things
+
+Javascript is easy to learn and little hard to understand with practice we can easily master it. This Technology is mainly used in all the startups and MNCs 
+
+Javascript has of best framework and libraries like Angular & ReactJs
+MERN stack technology is mainly has javascript code
+
+Learn Here
+
+Download Notes : Download Now
+
+CSS is Cascading Style Sheet which is used to style our web pages which gives the best UI design which makes good user experience 
+
+We use three different ways to insert css into htl pages
+1.inline css
+2.internal css
+3.external css
+
+CSS is inserted to html pages for giving pading,margin,font-sizes,border,display and etc.
+
+Example : if we take a human body the skeleton can be treated as HTML because its a stucture of web page,the hair color,skin color,height,weight,eyes shape all can be treated as CSS.wink
+
+Learn CSS
+
+Backend
+ 
+
+What is Django?
+Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
+
+
+Features of Django
+
+Ridiculously fast.Django was designed to help developers take applications from concept to completion as quickly as possible.
+Reassuringly secure.Django takes security seriously and helps developers avoid many common security mistakes.
+Exceedingly scalable.Some of the busiest sites on the Web leverage Django’s ability to quickly and flexibly scale.
+ 
+Frontend or Backend?
+Neither. Django is a framework, not a language. Python is the language in which Django is written.
+Django is a collection of Python libs allowing you to quickly and efficiently create a quality Web application, and is suitable for both frontend and backend
+

@@ -42,7 +42,7 @@
 #     print(i)
 
 # break and continue
-# myclassmates=["sayeed","shuaib","sisbghat","saleem","nazneen","afreen","raheela"]
+# myclassmates=["sayeed","shuaib","sibghat","saleem","nazneen","afreen","raheela"]
 
 # for name in myclassmates:
 #     print(name)
