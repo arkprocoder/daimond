@@ -1,0 +1,4 @@
+if i am running the same python file
+it will give __name__ ==__main__
+
+suppose you have imported another pythn file then that particular file is __name__ == file_name (the one which u have imported)
