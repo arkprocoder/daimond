@@ -25,7 +25,7 @@ class Child(Parent):
         print(f"\nName is {self.fullname}\nHeight is {self.height}\nBlood group is {self.blood}\nWeight is {self.weight}\nHair Color is {self.haircolor}\nAge is {self.age}")
 
 
-c1=Child("ark","6.0","B+",98,24)
+c1=Child("ark","6.0","B+",98)
 c1.ChildDetails()
 c1.ParentDetails()
 

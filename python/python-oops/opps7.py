@@ -1,4 +1,4 @@
-#multiple inheritance without constructor
+#multi level inheritance without constructor
 
 class A():
     name="Class A"
